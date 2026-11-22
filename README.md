@@ -1,16 +1,27 @@
-## Hi there 👋
+# Tina Rey
 
-<!--
-**TinaRey/TinaRey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Machine Learning Engineer | Applied AI**
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Machine Learning Engineer with experience building and deploying end-to-end ML solutions, from data preparation and model development to production deployment.
+
+Background in medical AI, with experience in computer vision, multimodal learning and large-scale data pipelines.
+
+Interested in applied AI, machine learning systems and real-world applications.
+
+## Notable Experience
+
+- **ImVitro** — Developed and deployed computer vision pipelines for embryo viability assessment, working with large-scale time-lapse video data and multimodal clinical data.
+- **TRIBVN Healthcare** — Worked on deep learning approaches for digital pathology, including mitosis detection, image segmentation and classification of histopathology images.
+- **Capgemini / Safran Aircraft Engines** — Developed machine learning models for industrial anomaly detection and quality control.
+
+## Publications
+
+- [A Partial Label-Based Machine Learning Approach for Cervical Whole-Slide Image Classification: The Winning TissueNet Solution](https://doi.org/10.1109/EMBC46164.2021.9631009)
+
+## Education
+
+- Post-Master's Degree in Artificial Intelligence — Télécom Paris
+- Engineer's Degree — Institut Supérieur d'Électronique de Paris
+- Exchange Semester — National Taiwan University of Science and Technology (NTUST)
